@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rlaubachjr call me Rob
-- 👀 I’m interested in coding in general but maimly web page development using HTML, CSS and Javascript
+- 👀 I’m interested in coding in general but maimly web page development using HTML, CSS and Javascript / Javascript both front and backend.  Working with datafiles - MongoDB , Node.js Express, ejs ...
 - 🌱 I’m currently learning some ofall but focusing on Javascript
 - 💞️ I’m looking to collaborate on anything, I'm retired lots of time available.
 - 📫 How to reach me at rlaubachjr@aol.com. I have aol.com because I've been on line a long time.
